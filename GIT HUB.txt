@@ -1,0 +1,41 @@
+GIT HUB
+
+It is an Vcs version control System.
+
+It is platform from Which one user can save hercode and share code to other
+It act as a Storage for project code.
+
+
+Vcs used to remove the drawback to change in a code...
+
+
+NOTES https://drive.google.com/file/d/1lTjADvVGZi2eUC7A97zFkvlHvS0AhoxE/view?usp=sharing
+
+Types:
+centralized version control system
+
+1. Remote Repository: It is a centrilized memory which is alloted by a company to all the member of project developer there is also a ADMIN of    this Memory.
+2.Commit: Include of the file to the local Repository.
+3.Update: Taking the code from the  local Repository.
+4.Without task1 task 2 cant work
+
+centralized version control system drawback:
+
+Need network to control computer
+Task is necessary to complete.
+
+To overcome this drawback a new Version control System introduce that is Distributed Version Control System.
+
+
+Distributed Version Control System
+
+A repository was created in a coder laptop  called Repository.
+
+5.Push:Moving file from local to main Repository
+6.Pull:Moving file from Main to local Repository
+
+Advantage 
+Collabrate System.
+
+Note
+Doesnt depend on one System.
